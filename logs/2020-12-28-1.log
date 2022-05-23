@@ -1,0 +1,62 @@
+[00:02:56] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:02:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:02:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:02:56] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:02:56] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:02:56] [main/INFO]: Reloading ResourceManager: Default
+[00:02:57] [Worker-Main-8/INFO]: Loaded 7 recipes
+[00:02:57] [Worker-Main-8/INFO]: Loaded 927 advancements
+[00:03:00] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[00:03:00] [Server thread/INFO]: Loading properties
+[00:03:00] [Server thread/INFO]: Default game type: SURVIVAL
+[00:03:00] [Server thread/INFO]: Generating keypair
+[00:03:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:03:00] [Server thread/INFO]: Using default channel type
+[00:03:01] [Server thread/INFO]: Preparing level "world"
+[00:03:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:03:03] [Server thread/INFO]: Preparing spawn area: 0%
+[00:03:03] [Server thread/INFO]: Preparing spawn area: 0%
+[00:03:03] [Server thread/INFO]: Preparing spawn area: 0%
+[00:03:03] [Server thread/INFO]: Preparing spawn area: 0%
+[00:03:04] [Server thread/INFO]: Time elapsed: 1946 ms
+[00:03:04] [Server thread/INFO]: Done (2.180s)! For help, type "help"
+[13:34:16] [User Authenticator #1/INFO]: UUID of player bxab45 is 102d321e-6db8-48e4-80c9-ec4756eea63f
+[13:34:17] [Server thread/INFO]: bxab45[/64.180.181.1:7080] logged in with entity id 224 at (101.81269153461868, 63.0, -299.26857653508245)
+[13:34:17] [Server thread/INFO]: bxab45 joined the game
+[13:36:35] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/650, l='ServerLevel[world]', x=131.74, y=63.00, z=-321.40]
+[13:37:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/882, l='ServerLevel[world]', x=140.80, y=63.00, z=-318.80]
+[13:37:55] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/920, l='ServerLevel[world]', x=140.80, y=63.00, z=-318.80]
+[13:43:16] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1923, l='ServerLevel[world]', x=140.80, y=64.00, z=-320.18]
+[13:44:42] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2173, l='ServerLevel[world]', x=138.43, y=64.00, z=-319.60]
+[13:53:54] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/3596, l='ServerLevel[world]', x=140.20, y=63.17, z=-318.40]
+[14:00:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/4576, l='ServerLevel[world]', x=133.20, y=63.00, z=-321.80]
+[14:01:29] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/4779, l='ServerLevel[world]', x=135.03, y=63.00, z=-321.75]
+[14:01:57] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/4898, l='ServerLevel[world]', x=131.71, y=64.00, z=-317.20]
+[14:07:37] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/5643, l='ServerLevel[world]', x=131.80, y=63.00, z=-320.61]
+[14:10:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6001, l='ServerLevel[world]', x=135.80, y=63.00, z=-321.28]
+[14:11:03] [Server thread/INFO]: bxab45 has made the advancement [Fishy Business]
+[14:12:19] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6273, l='ServerLevel[world]', x=139.83, y=63.00, z=-317.68]
+[14:16:23] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6887, l='ServerLevel[world]', x=134.21, y=63.00, z=-321.31]
+[14:19:20] [Server thread/INFO]: bxab45 has made the advancement [Local Brewery]
+[14:19:41] [Server thread/INFO]: bxab45 lost connection: Disconnected
+[14:19:41] [Server thread/INFO]: bxab45 left the game
+[17:53:11] [User Authenticator #2/INFO]: UUID of player bxab45 is 102d321e-6db8-48e4-80c9-ec4756eea63f
+[17:53:11] [Server thread/INFO]: bxab45[/64.180.181.1:9234] logged in with entity id 7309 at (103.45099450336282, 64.0, -308.0976360326398)
+[17:53:11] [Server thread/INFO]: bxab45 joined the game
+[17:59:51] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=130, y=64, z=-334} fx{x=131, y=63, z=-336}
+[18:00:26] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8442, l='ServerLevel[world]', x=132.09, y=64.00, z=-318.11]
+[18:03:01] [Server thread/INFO]: bxab45 lost connection: Disconnected
+[18:03:01] [Server thread/INFO]: bxab45 left the game
+[18:30:31] [User Authenticator #3/INFO]: UUID of player bxab45 is 102d321e-6db8-48e4-80c9-ec4756eea63f
+[18:30:31] [Server thread/INFO]: bxab45[/64.180.181.1:9708] logged in with entity id 8947 at (129.0761257815547, 63.0, -314.0791349323679)
+[18:30:31] [Server thread/INFO]: bxab45 joined the game
+[18:30:59] [Server thread/INFO]: bxab45 lost connection: Disconnected
+[18:30:59] [Server thread/INFO]: bxab45 left the game
+[18:34:35] [User Authenticator #4/INFO]: UUID of player bxab45 is 102d321e-6db8-48e4-80c9-ec4756eea63f
+[18:34:35] [Server thread/INFO]: bxab45[/64.180.181.1:9811] logged in with entity id 9031 at (115.8214498942633, 63.0, -313.84005305972096)
+[18:34:35] [Server thread/INFO]: bxab45 joined the game
+[18:37:29] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9425, l='ServerLevel[world]', x=140.80, y=63.00, z=-318.80]
+[18:37:53] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9518, l='ServerLevel[world]', x=131.63, y=63.00, z=-320.71]
+[18:42:35] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10237, l='ServerLevel[world]', x=139.82, y=64.00, z=-320.44]
+[18:55:17] [Server thread/INFO]: bxab45 lost connection: Disconnected
+[18:55:17] [Server thread/INFO]: bxab45 left the game
